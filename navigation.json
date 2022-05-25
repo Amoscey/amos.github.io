@@ -9,7 +9,7 @@
             "navi_index": ""
         },
         {
-            "text": "Notebook",
+            "text": "随记",
             "target": "Ahome/vx.json",
             "navi": true,
             "navi_expand_level": 1,
