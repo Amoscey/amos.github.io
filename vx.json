@@ -14,6 +14,12 @@
     ],
     "folders": [
         {
+            "name": "zh_cn"
+        },
+        {
+            "name": "en_us"
+        },
+        {
             "name": "amoscey"
         },
         {
@@ -21,6 +27,12 @@
         },
         {
             "name": "Home"
+        },
+        {
+            "name": "css"
+        },
+        {
+            "name": "js"
         }
     ],
     "id": "7",

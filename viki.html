@@ -94,21 +94,6 @@
     <!-- viki script -->
     <script src="js/viki.js"></script>
     <script src="js/custom.js"></script>
-    <script type="text/javascript">
-        var redir = (function() {
-            var languageString = navigator.language || navigator.userLanguage || '';
-            var language = languageString.split(/[_-]/)[0].toLowerCase();
-            switch (language) {
-            case 'zh':
-                return "zh_cn/";
-            default:
-                return "en_us/";
-            }
-        })();
-        window.location.href = redir;
-    </script>
-
-    
 </head>
 <body>
 </body>
