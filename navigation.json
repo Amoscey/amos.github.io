@@ -3,16 +3,18 @@
     [
         {
             "text": "首页",
-            "target": "home/vx.json",
+            "target": "vx.json",
             "navi": true,
             "toc": false,
-            "navi_index": "home/HomePage.md"
+            "navi_index": ""
         },
         {
             "text": "Notebook",
-            "target": "abc/vx.json",
+            "target": "Ahome/vx.json",
             "navi": true,
-            "navi_expand_level": 1
+            "navi_expand_level": 1,
+            "toc": true,
+            "navi_index": "Ahome/HomePage.md"
         }
     ],
     "actions":
