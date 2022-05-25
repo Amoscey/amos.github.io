@@ -10,7 +10,7 @@
         },
         {
             "text": "随记",
-            "target": "Ahome/vx.json",
+            "target": "Ahome/HomePage.md",
             "navi": true,
             "navi_expand_level": 1,
             "toc": true,
