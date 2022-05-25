@@ -54,12 +54,6 @@
     ],
     "folders": [
         {
-            "name": "js"
-        },
-        {
-            "name": "css"
-        },
-        {
             "name": "zh_cn"
         },
         {
@@ -76,6 +70,9 @@
         },
         {
             "name": "Game-swy"
+        },
+        {
+            "name": "Aworks"
         }
     ],
     "id": "7",
