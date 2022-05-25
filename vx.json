@@ -54,6 +54,12 @@
     ],
     "folders": [
         {
+            "name": "js"
+        },
+        {
+            "name": "css"
+        },
+        {
             "name": "zh_cn"
         },
         {
@@ -66,13 +72,10 @@
             "name": "学习"
         },
         {
-            "name": "css"
-        },
-        {
-            "name": "js"
-        },
-        {
             "name": "Ahome"
+        },
+        {
+            "name": "Game-swy"
         }
     ],
     "id": "7",
