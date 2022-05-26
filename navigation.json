@@ -3,7 +3,7 @@
     [
         {
             "text": "首页",
-            "target": "",
+            "target": "index.html",
             "navi": false,
             "toc": true,
             "navi_index": "index.html"
