@@ -6,11 +6,19 @@
             "target": "vx.json",
             "navi": false,
             "toc": true,
-            "navi_index": ""
+            "navi_index": "index.html"
         },
         {
             "text": "随记",
             "target": "Ahome/HomePage.md",
+            "navi": true,
+            "navi_expand_level": 1,
+            "toc": true,
+            "navi_index": "Ahome/HomePage.md"
+        },
+        {
+            "text": "游戏",
+            "target": "Aamuse/HomePage.md",
             "navi": true,
             "navi_expand_level": 1,
             "toc": true,
