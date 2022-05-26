@@ -6,7 +6,7 @@
             "target": "index.html",
             "navi": false,
             "toc": true,
-            "navi_index": "index.html"
+            "navi_index": "#"
         },
         {
             "text": "随记",
@@ -20,7 +20,7 @@
             "text": "游戏",
             "target": "Aamuse/amusement.md",
             "navi": true,
-            "navi_expand_level": 1,
+            "navi_expand_level": 2,
             "toc": true,
             "navi_index": "Aamuse/amusement.md"
         }
