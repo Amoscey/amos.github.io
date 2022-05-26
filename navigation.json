@@ -3,7 +3,7 @@
     [
         {
             "text": "首页",
-            "target": "vx.json",
+            "target": "",
             "navi": false,
             "toc": true,
             "navi_index": "index.html"
@@ -18,11 +18,11 @@
         },
         {
             "text": "游戏",
-            "target": "Aamuse/HomePage.md",
+            "target": "Aamuse/amusement.md",
             "navi": true,
             "navi_expand_level": 1,
             "toc": true,
-            "navi_index": "Ahome/HomePage.md"
+            "navi_index": "Aamuse/amusement.md"
         }
     ],
     "actions":
