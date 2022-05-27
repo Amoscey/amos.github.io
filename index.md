@@ -23,6 +23,6 @@
 ![赞赏码-amoscey](vx_images/208173821224427.png)
 
 ### 友情链接
-|  [网站导航](https://www.2345.com/?k23333k)  |
+| <a target="_blank" href="https://www.2345.com/?k23333k">网站导航</a> |
 
 # end
