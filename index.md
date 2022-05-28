@@ -21,6 +21,9 @@
 ## 关于
 ### 赞赏
 ![赞赏码-amoscey](vx_images/208173821224427.png)
+<!-- 
+![image](https://user-images.githubusercontent.com/101571163/170822018-99a59847-84e0-445a-909a-cca2da71f9db.png)
+ -->
 
 ### 友情链接
 | <a target="_blank" href="https://www.2345.com/?k23333k">网站导航</a> |

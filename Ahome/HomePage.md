@@ -1,11 +1,17 @@
 
 # HomePage
 - 随记
-[本文链接](amoscey.github.io/index.html/#!HomePage.md?)
+<!-- [本文链接](amoscey.github.io/index.html/#!HomePage.md?) -->
+
+<a target="_blank" href="amoscey.github.io/index.html/#!HomePage.md?">amoscey.github.io/index.html/#!HomePage.md?</a>
 
 > 测试使用！！！
 
-[Map-amo-Homepage.html](Map-amo-Homepage.html)
+<!-- [Map-amo-Homepage.html](Map-amo-Homepage.html) -->
+
+
+
+- <a target="_blank" href="Map-amo-Homepage.html">**思维导图-Homepage.html**</a>
 
 测试加入导图：
 
