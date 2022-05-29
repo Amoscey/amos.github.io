@@ -27,5 +27,6 @@ http://amoscey.github.io/ahome/Map-amo-Homepage.html
 
 
 <iframe src="https://htmlpreview.github.io/?https://github.com/Amoscey/amoscey.github.io/blob/main/Ahome/Map-amo-Homepage.html" frameBorder="0" width="" height="" scrolling="no" ></iframe>
+https://amoscey.github.io/Ahome/Map-amo-Homepage.html
 -->
 
