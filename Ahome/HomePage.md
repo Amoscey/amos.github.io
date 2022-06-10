@@ -3,8 +3,9 @@
 - 随记
 <!-- [本文链接](amoscey.github.io/index.html/#!HomePage.md?) -->
 
+<!-- 
 <a target="_blank" href="amoscey.github.io/index.html/#!HomePage.md?">amoscey.github.io/index.html/#!HomePage.md?</a>
-
+ -->
 > 测试使用！！！
 
 <!-- [Map-amo-Homepage.html](Map-amo-Homepage.html) -->

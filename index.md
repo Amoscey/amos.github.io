@@ -21,8 +21,13 @@
 ## 关于
 ### 专栏
 - 方法专栏：
+	- 
 	- [【学习笔记系统、网盘管理合集（n年经验总结）】](https://mianbaoduo.com/o/bread/YpuUlJlv)
+	- <a target="_blank" href="https://mianbaoduo.com/o/bread/YpuUlJlv">【学习笔记系统、网盘管理合集（n年经验总结）】</a>
 
+<!-- 
+https://mianbaoduo.com/o/bread/YpuUlJlv
+ -->
 ### 赞赏
 ![赞赏码-amoscey](vx_images/208173821224427.png)
 <!-- 
