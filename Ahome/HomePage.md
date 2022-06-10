@@ -14,6 +14,7 @@
 
 - <a target="_blank" href="Map-amo-Homepage.html">**思维导图-Homepage.html**</a>
 
+
 测试加入导图：
 
 点击查看
@@ -31,3 +32,14 @@ http://amoscey.github.io/ahome/Map-amo-Homepage.html
 https://amoscey.github.io/Ahome/Map-amo-Homepage.html
 -->
 
+## 软件
+
+### 思维导图软件
+
+<a target="_blank" href="../../amos_docs/Amos_docs/Maps/MindMaster限时活动.html">点击查看</a>
+
+<!-- 
+[MindMaster限时活动.html](../../amos_docs/Amos_docs/Maps/MindMaster限时活动.html) 
+-->
+
+# end
