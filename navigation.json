@@ -17,6 +17,14 @@
             "navi_index": "Ahome/HomePage.md"
         },
         {
+            "text": "文章",
+            "target": "AmArti/ArticlesHome.md",
+            "navi": true,
+            "navi_expand_level": 2,
+            "toc": true,
+            "navi_index": "AmArti/ArticlesHome.md"
+        },
+        {
             "text": "游戏",
             "target": "Aamuse/amusement.md",
             "navi": true,
