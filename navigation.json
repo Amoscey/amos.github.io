@@ -13,24 +13,21 @@
             "target": "Ahome/HomePage.md",
             "navi": true,
             "navi_expand_level": 1,
-            "toc": true,
-            "navi_index": "Ahome/HomePage.md"
+            "toc": true
         },
         {
             "text": "文章",
             "target": "AmArti/ArticlesHome.md",
             "navi": true,
             "navi_expand_level": 2,
-            "toc": true,
-            "navi_index": "AmArti/ArticlesHome.md"
+            "toc": true
         },
         {
             "text": "游戏",
             "target": "Aamuse/amusement.md",
             "navi": true,
             "navi_expand_level": 2,
-            "toc": true,
-            "navi_index": "Aamuse/amusement.md"
+            "toc": true
         }
     ],
     "actions":
