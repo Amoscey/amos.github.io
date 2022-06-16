@@ -3,7 +3,7 @@
     [
         {
             "text": "首页",
-            "target": "index.html",
+            "target": "#",
             "navi": false,
             "toc": true,
             "navi_index": "#"
@@ -33,9 +33,9 @@
     "actions":
     [
         {
-            "text": "Viki",
+            "text": "公众号：amoscey",
             "icon": "css/viki_white.svg",
-            "target": ""
+            "target": "https://amosc.top"
         }
     ]
 }
