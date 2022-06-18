@@ -33,7 +33,24 @@ https://mianbaoduo.com/o/bread/YpuUlJlv
 ![image](https://user-images.githubusercontent.com/101571163/170822018-99a59847-84e0-445a-909a-cca2da71f9db.png)
  -->
 
-### 友情链接
+## 友情链接
+
+### 云服务
+企业或开发者建站推荐服务：
+
+- 阿里云建站相关服务
+	- <a target="_blank" href="https://www.aliyun.com/activity/ambassador/share-gift/goods?taskCode=shareNew2206&recordId=4137248&userCode=drqqb5s6">**<mark>阿里云限时活动</mark>**</a> <!-- https://www.aliyun.com/minisite/goods?taskPkg=amb618all&pkgSid=435111&recordId=4137223&userCode=drqqb5s6  -->
+	- <a target="_blank" href="https://www.aliyun.com/minisite/goods?userCode=drqqb5s6">**小站特惠 - 云小站限量代金券**
+</a>
+	> 上云优惠聚集地，云小站专属代金券可叠加产品折扣使用 <br /> （服务器与云服务）
+	- <a target="_blank" href="https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=drqqb5s6">**云服务器精选特惠**</a>
+	> 服务器0元试用，首购低至0.6折
+	- <a target="_blank" href="https://www.aliyun.com/activity/new?userCode=drqqb5s6">**新人福利会场**</a>
+	> 各类产品，精心挑选的热门优惠云产品，总有一款适合你的业务形态。 <br /> （包括建站、域名等一系列服务）
+
+
+
+### 其他
 | <a target="_blank" href="https://www.2345.com/?k23333k">网站导航</a> |
 
 # end
