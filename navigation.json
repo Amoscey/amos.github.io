@@ -17,12 +17,16 @@
         },
         {
             "text": "文章",
-            "target": "AmArti/ArticlesHome.md",
-            "navi": true,
-            "navi_expand_level": 2,
-            "toc": true,
             "children":
             [
+                {
+                    "text": "文章",
+                    "target": "AmArti/ArticlesHome.md",
+                    "toc": true,
+            		"navi": true,
+            		"navi_expand_level": 2,
+            
+                },
                 {
                     "text": "文章层级1",
                     "target": "Ar2/test1.md",
