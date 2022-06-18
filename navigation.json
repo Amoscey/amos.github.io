@@ -3,10 +3,10 @@
     [
         {
             "text": "首页",
-            "target": "#",
+            "target": "",
             "navi": false,
             "toc": true,
-            "navi_index": "#"
+            "navi_index": ""
         },
         {
             "text": "随记",
