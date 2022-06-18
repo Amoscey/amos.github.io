@@ -22,10 +22,7 @@
                 {
                     "text": "文章",
                     "target": "AmArti/ArticlesHome.md",
-                    "toc": true,
-            		"navi": true,
-            		"navi_expand_level": 2,
-            
+                    "toc": true
                 },
                 {
                     "text": "文章层级1",
