@@ -12,7 +12,7 @@
             "text": "随记",
             "target": "Ahome/vx.json",
             "navi": true,
-            "navi_index": "Ahome/HomePage.md",
+            "navi_index": "HomePage.md",
             "navi_expand_level": 1,
             "toc": true
         },
@@ -40,7 +40,7 @@
             "text": "游戏",
             "target": "Aamuse/vx.json",
             "navi": true,
-            "navi_index": "Aamuse/amusement.md",
+            "navi_index": "amusement.md",
             "navi_expand_level": 2,
             "toc": true
         }
