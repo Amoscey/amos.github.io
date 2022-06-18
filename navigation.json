@@ -38,8 +38,9 @@
         },
         {
             "text": "游戏",
-            "target": "Aamuse/amusement.md",
+            "target": "Aamuse/vx.json",
             "navi": true,
+            "navi_index": "Aamuse/amusement.md",
             "navi_expand_level": 2,
             "toc": true
         }
