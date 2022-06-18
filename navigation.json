@@ -10,8 +10,9 @@
         },
         {
             "text": "随记",
-            "target": "Ahome/HomePage.md",
+            "target": "Ahome/vx.json",
             "navi": true,
+            "navi_index": "Ahome/HomePage.md",
             "navi_expand_level": 1,
             "toc": true
         },
