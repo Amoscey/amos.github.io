@@ -20,7 +20,19 @@
             "target": "AmArti/ArticlesHome.md",
             "navi": true,
             "navi_expand_level": 2,
-            "toc": true
+            "toc": true,
+            "children":
+            [
+                {
+                    "text": "文章层级1",
+                    "target": "Ar2/test1.md",
+                    "toc": false
+                },
+                {
+                    "text": "文章层级2",
+                    "target": "Ar2/test2.md"
+                }
+            ]
         },
         {
             "text": "游戏",
