@@ -28,7 +28,7 @@
                 {
                     "text": "文章层级1",
                     "target": "AmArti/Ar2/test1.md",
-                    "toc": false
+                    "toc": true
                 },
                 {
                     "text": "文章层级2",
