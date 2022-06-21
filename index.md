@@ -19,6 +19,10 @@
 可以去体验一些好玩的功能。
 
 ## 关于
+### 平台
+
+
+
 ### 专栏
 - 方法专栏：
 	- <a target="_blank" href="https://mianbaoduo.com/o/bread/YpuUlJlv">【学习笔记系统、网盘管理合集（n年经验总结）】</a>
