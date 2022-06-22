@@ -18,15 +18,14 @@
         },
         {
             "text": "文章",
+            "target": "Ahome/vx.json",
             "children":
             [
                 {
                     "text": "文章列表",
-                    "target": "AmArti/vx.json",
+                    "target": "AmArti/HomePage.md",
                     "toc": true,
-            		"navi": true,
-            		"navi_index": "HomePage.md",
-            		"navi_expand_level": 1,
+            		"navi": true
                 },
                 {
                     "text": "文章层级1",
