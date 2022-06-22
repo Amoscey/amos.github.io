@@ -21,7 +21,7 @@
             "children":
             [
                 {
-                    "text": "文章",
+                    "text": "文章列表",
                     "target": "AmArti/vx.json",
                     "toc": true
                 },
@@ -38,7 +38,7 @@
             ]
         },
         {
-            "text": "游戏",
+            "text": "娱乐",
             "target": "Aamuse/vx.json",
             "navi": true,
             "navi_index": "amusement.md",
@@ -47,19 +47,14 @@
             "children":
             [
                 {
-                    "text": "备注",
-                    "target": "Aamuse/ArticlesHome.md",
+                    "text": "关于游戏",
+                    "target": "Aamuse/vx.json",
                     "toc": true
                 },
                 {
-                    "text": "女性向游戏",
-                    "target": "AmArti/Ar2/test1.md",
+                    "text": "简评",
+                    "target": "Aamuse/GameComments2022.md",
                     "toc": true
-                },
-                {
-                    "text": "文章层级2",
-                    "target": "AmArti/Ar2/test2.md"
-                	
                 }
             ]
         }
