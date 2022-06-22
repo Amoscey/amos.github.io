@@ -15,9 +15,17 @@
             "navi_index": "HomePage.md",
             "navi_expand_level": 1,
             "toc": true
-        },
+        },,
         {
             "text": "文章",
+            "target": "AmArti/vx.json",
+            "navi": true,
+            "navi_index": "HomePage.md",
+            "navi_expand_level": 1,
+            "toc": true
+        },
+        {
+            "text": "分类",
             "target": "Ahome/vx.json",
             "children":
             [
@@ -25,7 +33,9 @@
                     "text": "文章列表",
                     "target": "AmArti/HomePage.md",
                     "toc": true,
-            		"navi": true
+            		"navi": true,
+            		"navi_index": "HomePage.md",
+            		"navi_expand_level": 1,
                 },
                 {
                     "text": "文章层级1",
