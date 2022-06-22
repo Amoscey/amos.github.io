@@ -1,8 +1,8 @@
-# amoscey.github.io
+# amoscey
 学习笔记 notes
 
 
-amoscey.github.io
+[https://amosc.top](https://amoscey.github.io)
 
 公众号：amoscey
 
