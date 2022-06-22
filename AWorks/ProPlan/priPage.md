@@ -20,6 +20,25 @@
 
 
 
+```plantuml
+@startmindmap
+* *12312*
+** 12
+*** 313\.[]()
+@endmindmap
+```
+
+
+```plantuml
+@startmindmap
+* ***12312***
+	* 12
+		* 313[]()
+	* ???
+		* -
+@endmindmap
+```
+
 # -
 
 <!-- 
