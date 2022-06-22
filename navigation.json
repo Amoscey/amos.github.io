@@ -22,7 +22,7 @@
             [
                 {
                     "text": "文章",
-                    "target": "AmArti/ArticlesHome.md",
+                    "target": "AmArti/vx.json",
                     "toc": true
                 },
                 {
@@ -43,7 +43,25 @@
             "navi": true,
             "navi_index": "amusement.md",
             "navi_expand_level": 2,
-            "toc": true
+            "toc": true,
+            "children":
+            [
+                {
+                    "text": "备注",
+                    "target": "Aamuse/ArticlesHome.md",
+                    "toc": true
+                },
+                {
+                    "text": "女性向游戏",
+                    "target": "AmArti/Ar2/test1.md",
+                    "toc": true
+                },
+                {
+                    "text": "文章层级2",
+                    "target": "AmArti/Ar2/test2.md"
+                	
+                }
+            ]
         }
     ],
     "actions":
