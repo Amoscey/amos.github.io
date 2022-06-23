@@ -26,16 +26,16 @@
         },
         {
             "text": "分类",
-            "target": "Ahome/vx.json",
+            "target": "AmArti/vx.json",
             "children":
             [
                 {
                     "text": "文章列表",
                     "target": "AmArti/HomePage.md",
                     "toc": true,
-            		"navi": true,
-            		"navi_index": "HomePage.md",
-            		"navi_expand_level": 1,
+                    "navi": true,
+                    "navi_index": "HomePage.md",
+                    "navi_expand_level": 1,
                 },
                 {
                     "text": "文章层级1",
@@ -45,7 +45,6 @@
                 {
                     "text": "文章层级2",
                     "target": "AmArti/Ar2/test2.md"
-                	
                 }
             ]
         },
