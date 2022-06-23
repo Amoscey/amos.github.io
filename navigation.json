@@ -26,7 +26,6 @@
         },
         {
             "text": "分类",
-            "target": "AmArti/vx.json",
             "children":
             [
                 {
