@@ -19,7 +19,7 @@
         {
             "text": "文章",
             "target": "AmArti/vx.json",
-            "toc": true
+            "toc": true,
             "children":
             [
                 {
