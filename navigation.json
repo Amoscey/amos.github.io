@@ -20,9 +20,6 @@
             "text": "文章",
             "target": "AmArti/vx.json",
             "toc": true
-        },
-        {
-            "text": "分类",
             "children":
             [
                 {
