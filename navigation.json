@@ -26,8 +26,6 @@
         },
         {
             "text": "分类",
-            "navi": true,
-            "navi_index": "HomePage.md",
             "children":
             [
                 {
