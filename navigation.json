@@ -29,11 +29,6 @@
             "children":
             [
                 {
-                    "text": "文章列表",
-                    "target": "AmArti/HomePage.md",
-                    "toc": true
-                },
-                {
                     "text": "文章层级1",
                     "target": "AmArti/Ar2/test1.md",
                     "toc": true
