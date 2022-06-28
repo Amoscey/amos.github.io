@@ -17,6 +17,14 @@
             "toc": true
         },
         {
+            "text": "福利",
+            "target": "AmActiv/vx.json",
+            "navi": true,
+            "navi_index": "Activities.md",
+            "navi_expand_level": 1,
+            "toc": true
+        },
+        {
             "text": "文章",
             "children":
             [
@@ -59,14 +67,6 @@
                     "toc": true
                 }
             ]
-        },
-        {
-            "text": "福利",
-            "target": "AmActiv/vx.json",
-            "navi": true,
-            "navi_index": "Activities.md",
-            "navi_expand_level": 1,
-            "toc": true
         }
     ],
     "actions":
