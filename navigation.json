@@ -15,7 +15,7 @@
             "navi_index": "HomePage.md",
             "navi_expand_level": 1,
             "toc": true
-        },,
+        },
         {
             "text": "文章",
             "target": "AmArti/vx.json",
@@ -57,7 +57,7 @@
         {
             "text": "公众号：amoscey",
             "icon": "css/viki_white.svg",
-            "target": "https://amosc.top"
+            "target": "https://amosc.top/#"
         }
     ]
 }
