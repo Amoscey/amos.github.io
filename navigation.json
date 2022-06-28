@@ -62,6 +62,7 @@
 
                 {
                     "text": "娱乐-总览",
+                    "target": "Aamuse/vx.json",
                     "navi": true,
                     "navi_index": "ArticlesHome.md",
                     "navi_expand_level": 1,
