@@ -33,8 +33,7 @@
                 {
                     "text": "文章列表",
                     "target": "AmArti/HomePage.md",
-                    "toc": true,
-                    "navi_expand_level": 1,
+                    "toc": true
                 },
                 {
                     "text": "文章层级1",
