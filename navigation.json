@@ -19,9 +19,6 @@
         {
             "text": "文章",
             "target": "AmArti/vx.json",
-            "navi": true,
-            "navi_index": "HomePage.md",
-            "navi_expand_level": 1,
             "toc": true
         },
         {
@@ -42,9 +39,6 @@
         {
             "text": "娱乐",
             "target": "Aamuse/vx.json",
-            "navi": true,
-            "navi_index": "amusement.md",
-            "navi_expand_level": 2,
             "toc": true,
             "children":
             [
