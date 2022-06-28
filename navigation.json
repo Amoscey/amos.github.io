@@ -33,6 +33,15 @@
             "toc": true
         },
         {
+            "text": "娱乐",
+            "target": "Aamuse/vx.json",
+            "navi": true,
+            "navi_index": "ArticlesHome.md",
+            "navi_expand_level": 1,
+            "toc": true
+
+        },
+        {
             "text": "综合",
             "children":
             [
@@ -52,11 +61,6 @@
                     "navi_index": "ArticlesHome.md",
                     "navi_expand_level": 1,
                     "toc": true
-                },
-                {
-                    "text": "游戏简评",
-                    "target": "Aamuse/GameComments2022.md",
-                    "toc": true
                 }
             ]
         },
@@ -69,6 +73,11 @@
                     "text": "文章-主页",
                     "target": "AmArti/ArticlesHome.md",
                     "navi": true,
+                    "toc": true
+                },
+                {
+                    "text": "游戏简评",
+                    "target": "Aamuse/GameComments2022.md",
                     "toc": true
                 },
 
