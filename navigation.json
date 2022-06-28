@@ -10,7 +10,7 @@
         },
         {
             "text": "福利",
-            "target": "AmActiv/vx.json",
+            "target": "amActiv/vx.json",
             "navi": true,
             "navi_index": "Activities.md",
             "navi_expand_level": 1,
