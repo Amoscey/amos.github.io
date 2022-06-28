@@ -56,10 +56,18 @@
             ]
         },
         {
-            "text": "娱乐",
+            "text": "综合",
             "children":
             [
 
+                {
+                    "text": "文章-总览",
+                    "target": "AmArti/vx.json",
+                    "navi": true,
+                    "navi_index": "ArticlesHome.md",
+                    "navi_expand_level": 1,
+                    "toc": true
+                },
                 {
                     "text": "娱乐-总览",
                     "target": "Aamuse/vx.json",
@@ -69,7 +77,7 @@
                     "toc": true
                 },
                 {
-                    "text": "个人简评",
+                    "text": "游戏简评",
                     "target": "Aamuse/GameComments2022.md",
                     "toc": true
                 }
