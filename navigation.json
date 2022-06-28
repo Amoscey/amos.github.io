@@ -23,10 +23,10 @@
                 {
                     "text": "文章-总览",
                     "target": "AmArti/vx.json",
-		            "navi": true,
-		            "navi_index": "ArticlesHome.md",
-		            "navi_expand_level": 1,
-		            "toc": true
+                    "navi": true,
+                    "navi_index": "ArticlesHome.md",
+                    "navi_expand_level": 1,
+                    "toc": true
                 },
 
                 {
@@ -48,10 +48,10 @@
 
                 {
                     "text": "娱乐-总览",
-		            "navi": true,
-		            "navi_index": "ArticlesHome.md",
-		            "navi_expand_level": 1,
-		            "toc": true
+                    "navi": true,
+                    "navi_index": "ArticlesHome.md",
+                    "navi_expand_level": 1,
+                    "toc": true
                 },
                 {
                     "text": "个人简评",
