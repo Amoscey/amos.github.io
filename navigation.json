@@ -18,10 +18,17 @@
         },
         {
             "text": "文章",
-            "target": "AmArti/vx.json",
-            "toc": true,
             "children":
             [
+                {
+                    "text": "文章",
+                    "target": "AmArti/vx.json",
+		            "navi": true,
+		            "navi_index": "ArticlesHome.md",
+		            "navi_expand_level": 1,
+		            "toc": true
+                },
+
                 {
                     "text": "文章层级1",
                     "target": "AmArti/Ar2/test1.md",
@@ -36,10 +43,9 @@
         },
         {
             "text": "娱乐",
-            "target": "Aamuse/vx.json",
-            "toc": true,
             "children":
             [
+
                 {
                     "text": "关于游戏",
                     "target": "Aamuse/vx.json",
