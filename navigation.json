@@ -21,7 +21,7 @@
             "children":
             [
                 {
-                    "text": "文章",
+                    "text": "文章-总览",
                     "target": "AmArti/vx.json",
 		            "navi": true,
 		            "navi_index": "ArticlesHome.md",
@@ -47,16 +47,26 @@
             [
 
                 {
-                    "text": "关于游戏",
-                    "target": "Aamuse/vx.json",
-                    "toc": true
+                    "text": "娱乐-总览",
+		            "navi": true,
+		            "navi_index": "ArticlesHome.md",
+		            "navi_expand_level": 1,
+		            "toc": true
                 },
                 {
-                    "text": "简评",
+                    "text": "个人简评",
                     "target": "Aamuse/GameComments2022.md",
                     "toc": true
                 }
             ]
+        },
+        {
+            "text": "福利",
+            "target": "AmActiv/vx.json",
+            "navi": true,
+            "navi_index": "Activities.md",
+            "navi_expand_level": 1,
+            "toc": true
         }
     ],
     "actions":
