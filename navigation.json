@@ -26,34 +26,11 @@
         },
         {
             "text": "文章",
-            "children":
-            [
-                {
-                    "text": "文章-总览",
-                    "target": "AmArti/vx.json",
-                    "navi": true,
-                    "navi_index": "ArticlesHome.md",
-                    "navi_expand_level": 1,
-                    "toc": true
-                },
-
-                {
-                    "text": "文章主页",
-                    "target": "AmArti/ArticlesHome.md",
-                    "toc": true
-                },
-
-                {
-                    "text": "文章测试1",
-                    "target": "AmArti/Ar2/test1.md",
-                    "toc": true
-                },
-                {
-                    "text": "文章测试2",
-                    "target": "AmArti/Ar2/test2.md",
-                    "toc": true
-                }
-            ]
+            "target": "AmArti/vx.json",
+            "navi": true,
+            "navi_index": "ArticlesHome.md",
+            "navi_expand_level": 1,
+            "toc": true
         },
         {
             "text": "综合",
@@ -79,6 +56,30 @@
                 {
                     "text": "游戏简评",
                     "target": "Aamuse/GameComments2022.md",
+                    "toc": true
+                }
+            ]
+        },
+
+        {
+            "text": "单篇",
+            "children":
+            [
+                {
+                    "text": "文章主页",
+                    "target": "AmArti/ArticlesHome.md",
+                    "navi": true,
+                    "toc": true
+                },
+
+                {
+                    "text": "文章测试1",
+                    "target": "AmArti/Ar2/test1.md",
+                    "toc": true
+                },
+                {
+                    "text": "文章测试2",
+                    "target": "AmArti/Ar2/test2.md",
                     "toc": true
                 }
             ]
