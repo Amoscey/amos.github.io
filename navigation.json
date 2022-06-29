@@ -80,16 +80,15 @@
                     "target": "Aamuse/GameComments2022.md",
                     "toc": true
                 },
-
-                {
-                    "text": "毒鸡汤",
-                    "target": "AmArti/Ar2/Sentences.md",
-                    "toc": true
-                },
                 {
                     "text": "文章测试2",
                     "target": "AmArti/Ar2/test2.md",
                     "toc": true
+                },
+
+                {
+                    "text": "毒鸡汤",
+                    "target": "AmArti/Ar2/Sentences.md"
                 }
             ]
         }
