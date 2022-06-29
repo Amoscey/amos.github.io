@@ -8,7 +8,7 @@
 <p id="badsoup">有人一笑就很好看，你是一看就挺好笑。</p>
 
 <!-- Footer -->
-<!-- 
+
 <script>
   var xhr = new XMLHttpRequest();
   xhr.open('get', 'https://www.7ed.net/soup/api');
@@ -21,5 +21,5 @@
   }
   xhr.send();
 </script>
- -->
+
 ## …
