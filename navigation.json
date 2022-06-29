@@ -36,7 +36,7 @@
             "text": "娱乐",
             "target": "Aamuse/vx.json",
             "navi": true,
-            "navi_index": "ArticlesHome.md",
+            "navi_index": "amusement.md",
             "navi_expand_level": 1,
             "toc": true
 
@@ -58,7 +58,7 @@
                     "text": "娱乐-总览",
                     "target": "Aamuse/vx.json",
                     "navi": true,
-                    "navi_index": "ArticlesHome.md",
+                    "navi_index": "amusement.md",
                     "navi_expand_level": 1,
                     "toc": true
                 }
