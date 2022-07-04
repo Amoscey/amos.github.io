@@ -38,7 +38,17 @@ https://mianbaoduo.com/o/bread/YpuUlJlv
 ![image](https://user-images.githubusercontent.com/101571163/170822018-99a59847-84e0-445a-909a-cca2da71f9db.png)
  -->
 
+## 小调查
+<a target="_blank" href="https://flowus.cn/form/abbb47ba-b7e4-4610-9bb1-e929556a7582?code=GJNNNL"> 笔记和效率软件小调查</a>
+
+备注：该数据仅用于写文章和创作时参考，不会用于其他用途，可以先关注我（公众号amoscey）等后续，因为关注这个领域的可能不太多，可能得过一段时间才能写。
+
+
+## 笔记软件推荐
+
+
 # 友情链接
+
 
 ## 云服务
 企业或开发者建站推荐服务：

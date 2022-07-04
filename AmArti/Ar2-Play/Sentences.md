@@ -2,7 +2,7 @@
 
 ## 毒鸡汤
 - badsoup
-- [点击重新加载刷新](/#!AmArti/Ar2-Play/Sentences.md)
+- [点击重新加载刷新](/#!AmArti/Ar2-Play/Sentences.md#)
 
 <!-- Body -->
 <p id="badsoup">有人一笑就很好看，你是一看就挺好笑。</p>
