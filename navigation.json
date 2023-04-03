@@ -9,7 +9,7 @@
             "navi_index": "#"
         },
         {
-            "text": "福利",
+            "text": "活动",
             "target": "amActiv/vx.json",
             "navi": true,
             "navi_index": "Activities.md",

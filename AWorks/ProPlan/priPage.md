@@ -8,12 +8,12 @@
 ## 活动类
 
 ### 软件限时活动
-- [MindMaster思维导图限时活动](https://mianbaoduo.com/o/bread/YpuZlp5q)
+- [MindMaster思维导图限时活动](https://mbd.pub/o/bread/YpuZlp5q)
 	- 长期更新
 	- 或者公众号amoscey后台发送“亿图活动”，也可获取更新
 
 #### 笔记软件
-- [嵌套笔记软件Flowus限时活动](https://mianbaoduo.com/o/bread/YpublZpu)
+- [嵌套笔记软件Flowus限时活动](https://mbd.pub/o/bread/YpublZpu)
 	- 或者公众号amoscey后台发送“活动”，也可获取更新
 	- **<mark>GJNNNL</mark>**
 
