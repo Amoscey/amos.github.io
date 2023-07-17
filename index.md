@@ -54,10 +54,10 @@ https://mbd.pub/o/bread/YpuUlJlv
 企业或开发者建站推荐服务：
 
 - ### **腾讯云相关服务**
-	- <a target="_blank" href="https://cloud.tencent.com/act/cps/redirect?redirect=2260&cps_key=381ec8b123b6d4e93ad7320e04a977c5&from=console">**【腾讯云】618采购季**</a>
-	> 【腾讯云】618采购季来袭！爆款云服务器18元起，参与活动享多重好礼
+	- <a target="_blank" href="https://cloud.tencent.com/act/cps/redirect?redirect=2260&cps_key=381ec8b123b6d4e93ad7320e04a977c5&from=console">**【腾讯云】采购季**</a>
+	> 【腾讯云】爆款云服务器18元起，参与活动享多重好礼
 	- <a target="_blank" href="https://cloud.tencent.com/act/cps/redirect?redirect=1040&cps_key=381ec8b123b6d4e93ad7320e04a977c5&from=console">**新人专享限时活动**</a>
-	> 【腾讯云】推广者专属福利，新客户无门槛领取总价值高达2860元代金券，每种代金券限量500张，先到先得。
+	> 【腾讯云】新人专属福利，新客户无门槛领取总价值高达2860元代金券，每种代金券限量500张，先到先得。 <!--推广者-->
 	- <a target="_blank" href="https://cloud.tencent.com/act/cps/redirect?redirect=2243&cps_key=381ec8b123b6d4e93ad7320e04a977c5&from=console">**热门产品**</a>
 	> 【腾讯云-专属】精选爆款云产品，大额代金券等你领
 
