@@ -1,24 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>图床链接输出</title>
+  <title>图床链接输出--1.1</title>
   <script>
     function generateOutput() {
       var links = document.getElementById("links").value.split("\n");
       var labels = document.getElementById("labels").value.split("\n");
       var output = "";
       
-      for (var i = 0; i < links.length; i++) {
-        var link = links[i].trim();
-        if (link !== "") {
-          output += "![](" + link + ")";
-          
-          if (labels.length > i && labels[i].trim() !== "") {
-            output += " - " + labels[i].trim();
+      if (links.length > 0 && links[0].trim() !== "") {
+        output += "![](" + links[0].trim() + ") <!--";
+        
+        for (var i = 1; i < links.length; i++) {
+          var link = links[i].trim();
+          if (link !== "") {
+            output += "\n![](" + link + ")";
+            
+            if (labels.length > i && labels[i].trim() !== "") {
+              output += " - " + labels[i].trim();
+            }
           }
-          
-          output += "\n";
         }
+        
+        output += "\n-->\n";
       }
       
       document.getElementById("output").value = output;
