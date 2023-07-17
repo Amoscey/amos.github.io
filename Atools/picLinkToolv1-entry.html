@@ -1,34 +1,42 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>暗号验证</title>
-  <script>
-    function verifyPasscode() {
-      var inputPasscode = document.getElementById("passcode").value;
-      var passwordUrl = "https://amosc.top/Atools/piclinkAah.md"; // 指定密码文件的地址
-
-      // 发起 AJAX 请求读取密码文件内容
-      var xhr = new XMLHttpRequest();
-      xhr.open("GET", passwordUrl, true);
-      xhr.onreadystatechange = function() {
-        if (xhr.readyState === 4 && xhr.status === 200) {
-          var password = xhr.responseText.trim();
-          if (inputPasscode === password) {
-            window.location.href = "https://amosc.top/Atools/picLinkTool1.html"; // 跳转到指定页面
-          } else {
-            alert("暗号不正确！"); // 暗号不匹配，显示错误消息
-          }
-        }
-      };
-      xhr.send();
-    }
-  </script>
+	<link rel="stylesheet" href="style.css">
+	<title>验证暗号</title>
+	<script>
+		function validateCode() {
+			var passwordInput = document.getElementById("password").value.trim();
+			var defaultPassword = "7777";
+			
+			// 发起请求读取 md 文件
+			fetch('piclinkAah.md')
+				.then(response => response.text())
+				.then(data => {
+					var lines = data.split("\n");
+					var filePassword = lines[0].trim();
+					
+					if (passwordInput === defaultPassword || passwordInput === filePassword) {
+						window.location.href = "picLinkTool1.html";
+					} else {
+						alert("暗号不正确，请重新输入！");
+					}
+				})
+				.catch(error => {
+					if (passwordInput === defaultPassword) {
+						window.location.href = "picLinkTool1.html";
+					} else {
+						alert("暗号不正确，请重新输入！");
+					}
+				});
+		}
+	</script>
 </head>
 <body>
-  <h1>暗号验证</h1>
-  <p>请输入暗号：</p>
-  <input type="text" id="passcode" placeholder="请输入暗号">
-  <br><br>
-  <button onclick="verifyPasscode()">验证</button>
+	<h2>验证暗号</h2>
+	<label for="password">请输入暗号：<br />输入正确即可使用工具--图床链接生成1.2<br /> 用途
+ </label><br /> 
+	<input type="password" id="password" name="password">
+	<br><br>
+	<button onclick="validateCode()">提交验证</button>
 </body>
 </html>

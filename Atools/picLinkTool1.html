@@ -21,6 +21,9 @@
 		}
 	</style>
 	<script>
+		function goBack() {
+			window.history.back();
+		}
 		function generateOutput() {
 			var links = document.getElementById("links").value.split("\n");
 			var labels = document.getElementById("labels").value.split("\n");
@@ -59,12 +62,13 @@
 </head>
 <body>
 	<h2>图床链接生成1.2</h2>
-	<p>请输入图床链接：</p>
+	<button onclick="goBack()">返回键</button>
+	<p>请输入图床链接：（必填）</p>
 	<div class="container">
 		<textarea id="links" rows="5" cols="50" placeholder="链接1&#10;链接2&#10;链接3&#10;..."></textarea>
 	</div>
 	
-	<p>请输入链接对应的标签：</p>
+	<p>请输入链接对应的标签：（可不填）</p>
 	<div class="container">
 		<textarea id="labels" rows="5" cols="50" placeholder="链接1对应标签&#10;链接2对应标签&#10;链接3对应标签&#10;..."></textarea>
 	</div>
@@ -82,6 +86,10 @@
 	<!-- 修改这里 -->
 	<div class="button-container">
 		<button onclick="copyOutput()">复制全部</button>
+	</div>
+	<hr /> 
+	<div>
+		<button onclick="goBack()">返回上一页</button>
 	</div>
 </body>
 </html>
