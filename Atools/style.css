@@ -1,0 +1,48 @@
+body {
+  background-color: #A8C6A3;
+  /*  实在不行就lightblue   89A58D还行了，差一点
+  6BBB85不行太深绿了 92C66F太亮  A2CF8F  9ACD7C  316E6D  319873
+  */
+  font-family: "OPPOSans", "LXGW Wenkai", Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #777;
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+textarea {
+  width: 100%;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  margin: 0 5px;
+}
+
+button:hover {
+  background-color: #6BBB85;
+  /*background-color: #0056b3;
+ */
+}

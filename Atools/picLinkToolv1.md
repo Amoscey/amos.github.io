@@ -1,9 +1,12 @@
 #### 不行
 [picLinkToolv1.md](https://amosc.top/#!Atools/picLinkToolv1.md)
+#### 可以用的
 
-网页
-https://amosc.top/Atools/picLinkTool1.html
+- [网页-html-](https://amosc.top/Atools/picLinkTool1.html)
+    - https://amosc.top/Atools/picLinkTool1.html
 
+
+#### 预览界面(无法运行)
 <!DOCTYPE html>
 <html>
 <head>
@@ -32,7 +35,7 @@ https://amosc.top/Atools/picLinkTool1.html
   </script>
 </head>
 <body>
-  <h1>图床链接生成</h1>
+  <h5>图床链接生成</h5>
   <p>请输入图床链接：</p>
   <textarea id="links" rows="5" cols="50" placeholder="链接1&#10;链接2&#10;链接3&#10;..."></textarea>
   
@@ -41,7 +44,7 @@ https://amosc.top/Atools/picLinkTool1.html
   
   <button onclick="generateOutput()">生成输出</button>
   
-  <h2>输出结果：</h2>
+  <h5>输出结果：</h5>
   <pre id="output"></pre>
 </body>
 

@@ -1,55 +1,87 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>图床链接输出--1.1</title>
-  <script>
-    function generateOutput() {
-      var links = document.getElementById("links").value.split("\n");
-      var labels = document.getElementById("labels").value.split("\n");
-      var output = "";
-      
-      if (links.length > 0 && links[0].trim() !== "") {
-        output += "![](" + links[0].trim() + ") <!--";
-        
-        for (var i = 1; i < links.length; i++) {
-          var link = links[i].trim();
-          if (link !== "") {
-            output += "\n![](" + link + ")";
-            
-            if (labels.length > i && labels[i].trim() !== "") {
-              output += " - " + labels[i].trim();
-            }
-          }
-        }
-        
-        output += "\n-->\n";
-      }
-      
-      document.getElementById("output").value = output;
-    }
-    
-    function copyOutput() {
-      var output = document.getElementById("output");
-      output.select();
-      output.setSelectionRange(0, 99999);
-      document.execCommand("copy");
-      alert("已复制到剪贴板");
-    }
-  </script>
+	<link rel="stylesheet" href="style.css">
+	<title>a-图床链接输出1.2 - amoscey</title>
+	<style>
+		.container {
+			width: 50%;
+			margin: 0 auto;
+			max-width: 500px;
+		}
+		
+		.button-container {
+			display: flex;
+			justify-content: center;
+			margin-top: 10px;
+		}
+		
+		.button-container button {
+			margin: 0 5px;
+		}
+	</style>
+	<script>
+		function generateOutput() {
+			var links = document.getElementById("links").value.split("\n");
+			var labels = document.getElementById("labels").value.split("\n");
+			var output = "";
+			
+			if (links.length > 0 && links[0].trim() !== "") {
+				output += "![](" + links[0].trim() + ") <!-- - " + (labels.length > 0 ? labels[0].trim() : "") + "\n";
+				
+				for (var i = 1; i < links.length; i++) {
+					var link = links[i].trim();
+					if (link !== "") {
+						output += "![](" + link + ")";
+						
+						if (labels.length > i && labels[i].trim() !== "") {
+							output += " - " + labels[i].trim();
+						}
+						
+						output += "\n";
+					}
+				}
+				
+				output += "-->\n";
+			}
+			
+			document.getElementById("output").value = output;
+		}
+		
+		function copyOutput() {
+			var output = document.getElementById("output");
+			output.select();
+			output.setSelectionRange(0, 99999);
+			document.execCommand("copy");
+			alert("已复制到剪贴板");
+		}
+	</script>
 </head>
 <body>
-  <h1>图床链接生成</h1>
-  <p>请输入图床链接：</p>
-  <textarea id="links" rows="5" cols="50" placeholder="链接1&#10;链接2&#10;链接3&#10;..."></textarea>
-  
-  <p>请输入链接对应的标签：</p>
-  <textarea id="labels" rows="5" cols="50" placeholder="链接1对应标签&#10;链接2对应标签&#10;链接3对应标签&#10;..."></textarea>
-  
-  <button onclick="generateOutput()">生成输出</button>
-  
-  <h2>输出结果：</h2>
-  <textarea id="output" rows="5" cols="50" readonly></textarea>
-  
-  <button onclick="copyOutput()">复制全部</button>
+	<h2>图床链接生成1.2</h2>
+	<p>请输入图床链接：</p>
+	<div class="container">
+		<textarea id="links" rows="5" cols="50" placeholder="链接1&#10;链接2&#10;链接3&#10;..."></textarea>
+	</div>
+	
+	<p>请输入链接对应的标签：</p>
+	<div class="container">
+		<textarea id="labels" rows="5" cols="50" placeholder="链接1对应标签&#10;链接2对应标签&#10;链接3对应标签&#10;..."></textarea>
+	</div>
+	
+	<!-- 修改这里 -->
+	<div class="button-container">
+		<button onclick="generateOutput()">生成输出</button>
+	</div>
+	
+	<h2>输出结果：</h2>
+	<div class="container">
+		<textarea id="output" rows="5" cols="50" readonly placeholder="作者——公众号:amoscey&#10;..."></textarea>
+	</div>
+	
+	<!-- 修改这里 -->
+	<div class="button-container">
+		<button onclick="copyOutput()">复制全部</button>
+	</div>
 </body>
 </html>

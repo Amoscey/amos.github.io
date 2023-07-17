@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>暗号验证</title>
+  <script>
+    function verifyPasscode() {
+      var inputPasscode = document.getElementById("passcode").value;
+      var passwordUrl = "https://amosc.top/Atools/piclinkAah.md"; // 指定密码文件的地址
+
+      // 发起 AJAX 请求读取密码文件内容
+      var xhr = new XMLHttpRequest();
+      xhr.open("GET", passwordUrl, true);
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          var password = xhr.responseText.trim();
+          if (inputPasscode === password) {
+            window.location.href = "https://amosc.top/Atools/picLinkTool1.html"; // 跳转到指定页面
+          } else {
+            alert("暗号不正确！"); // 暗号不匹配，显示错误消息
+          }
+        }
+      };
+      xhr.send();
+    }
+  </script>
+</head>
+<body>
+  <h1>暗号验证</h1>
+  <p>请输入暗号：</p>
+  <input type="text" id="passcode" placeholder="请输入暗号">
+  <br><br>
+  <button onclick="verifyPasscode()">验证</button>
+</body>
+</html>
