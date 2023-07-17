@@ -1,3 +1,8 @@
+#### 不行
+[picLinkToolv1.md](https://amosc.top/#!Atools/picLinkToolv1.md)
+
+网页
+https://amosc.top/Atools/picLinkTool1.html
 
 <!DOCTYPE html>
 <html>

@@ -21,7 +21,15 @@
         }
       }
       
-      document.getElementById("output").textContent = output;
+      document.getElementById("output").value = output;
+    }
+    
+    function copyOutput() {
+      var output = document.getElementById("output");
+      output.select();
+      output.setSelectionRange(0, 99999);
+      document.execCommand("copy");
+      alert("已复制到剪贴板");
     }
   </script>
 </head>
@@ -36,7 +44,8 @@
   <button onclick="generateOutput()">生成输出</button>
   
   <h2>输出结果：</h2>
-  <pre id="output"></pre>
+  <textarea id="output" rows="5" cols="50" readonly></textarea>
+  
+  <button onclick="copyOutput()">复制全部</button>
 </body>
-
 </html>
